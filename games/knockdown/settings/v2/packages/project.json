@@ -1,0 +1,22 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "width": 1280,
+      "height": 720,
+      "fitHeight": true,
+      "fitWidth": false
+    }
+  },
+  "physics": {
+    "physicsEngine": "cannon.js",
+    "gravity": {
+      "x": 0,
+      "y": -9.81,
+      "z": 0
+    },
+    "allowSleep": true,
+    "fixedTimeStep": 0.008333333333333333,
+    "maxSubSteps": 6
+  }
+}

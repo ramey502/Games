@@ -1,0 +1,22 @@
+{
+  "name": "knockdown",
+  "platform": "wechatgame",
+  "buildPath": "project://build",
+  "outputName": "wechatgame",
+  "debug": false,
+  "startScene": "93d7462a-d5e5-4b94-8172-13a7767342a4",
+  "scenes": [
+    {
+      "url": "db://assets/scenes/Main.scene",
+      "uuid": "93d7462a-d5e5-4b94-8172-13a7767342a4"
+    }
+  ],
+  "packages": {
+    "wechatgame": {
+      "appid": "wx6eb6655946c6e8c4",
+      "orientation": "landscape",
+      "separateEngine": false
+    }
+  },
+  "mangleProperties": true
+}

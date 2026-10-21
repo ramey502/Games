@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+.tools/
+**/library/
+**/temp/
+**/local/
+**/profiles/
+**/build/
+**/native/
+**/project.private.config.json
+**/settings/v2/packages/information.json
+**/settings/v2/packages/cocos-service.json
+artifacts/
+*.log
+.env*
+!.env.example
